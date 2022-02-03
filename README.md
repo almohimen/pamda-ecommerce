@@ -1,1 +1,1 @@
-# pamda-ecommerce using bootstrap
+# panda-ecommerce using bootstrap
